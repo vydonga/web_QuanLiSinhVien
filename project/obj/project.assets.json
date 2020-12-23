@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien-main\\web_QuanLiSinhVien-main\\project\\project.csproj",
+      "projectUniqueName": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien\\project\\project.csproj",
       "projectName": "project",
-      "projectPath": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien-main\\web_QuanLiSinhVien-main\\project\\project.csproj",
+      "projectPath": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien\\project\\project.csproj",
       "packagesPath": "C:\\Users\\Microsoft Windows\\.nuget\\packages\\",
-      "outputPath": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien-main\\web_QuanLiSinhVien-main\\project\\obj\\",
+      "outputPath": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien\\project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
