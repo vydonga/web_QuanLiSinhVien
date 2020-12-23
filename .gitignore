@@ -1,4 +1,4 @@
 #
 *.txt
-!project/Views
-!project/obj
+!./project/Views
+!./project/obj
