@@ -1,6 +1,6 @@
-## Website students manager
+# WEBSITE STUDENTS MANAGER
 
-# Future key:
+## Future key:
 - [ ] Login
  + [x] Login UI
  + [ ] Login Database
