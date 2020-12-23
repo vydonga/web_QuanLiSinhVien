@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien-main\\web_QuanLiSinhVien-main\\project\\project.csproj": {}
+    "C:\\Users\\Dang Duc Vu\\Desktop\\web_QuanLiSinhVien\\project\\project.csproj": {}
   },
   "projects": {
-    "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien-main\\web_QuanLiSinhVien-main\\project\\project.csproj": {
+    "C:\\Users\\Dang Duc Vu\\Desktop\\web_QuanLiSinhVien\\project\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien-main\\web_QuanLiSinhVien-main\\project\\project.csproj",
+        "projectUniqueName": "C:\\Users\\Dang Duc Vu\\Desktop\\web_QuanLiSinhVien\\project\\project.csproj",
         "projectName": "project",
-        "projectPath": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien-main\\web_QuanLiSinhVien-main\\project\\project.csproj",
-        "packagesPath": "C:\\Users\\Microsoft Windows\\.nuget\\packages\\",
-        "outputPath": "E:\\learn\\perform\\ASP.net\\web_QuanLiSinhVien-main\\web_QuanLiSinhVien-main\\project\\obj\\",
+        "projectPath": "C:\\Users\\Dang Duc Vu\\Desktop\\web_QuanLiSinhVien\\project\\project.csproj",
+        "packagesPath": "C:\\Users\\Dang Duc Vu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dang Duc Vu\\Desktop\\web_QuanLiSinhVien\\project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Microsoft Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dang Duc Vu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
