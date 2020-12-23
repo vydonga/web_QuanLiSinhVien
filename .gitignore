@@ -2,6 +2,7 @@
 project/.vs/
 project/bin/
 project/obj/
+project/obj/Debug
 project/Properties/
 project/wwwroot/
 project/*.json
