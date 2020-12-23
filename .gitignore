@@ -1,4 +1,5 @@
+
 # từ chối các file k sử dụng
 *.txt
-./project
+"./project"
 !./project/Views
